@@ -4,4 +4,4 @@ function suma(numero){
     return numero + 100
 };
 
-console.log(suma);
+console.log(suma(10));
