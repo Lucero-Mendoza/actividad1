@@ -6,4 +6,8 @@ let examen = {
     puntosObtenidos : 40,
     puntosTotales : 100,
 };
+
 console.log(examen);
+function imprimeSaludos(nombre){
+    console.log('Hola ' + nombre + "!");
+}
